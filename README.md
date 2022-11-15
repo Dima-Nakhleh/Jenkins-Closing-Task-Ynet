@@ -13,3 +13,5 @@ News XML in an HTML Table Format.
 - mvn clean package .
 **3. Run The Jar File**
 -  java -jar target/YnetNewsApp-0.0.1-SNAPSHOT.jar
+## **Jenkins Stage View:**
+[![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")
