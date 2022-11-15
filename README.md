@@ -15,3 +15,11 @@ News XML in an HTML Table Format.
 -  java -jar target/YnetNewsApp-0.0.1-SNAPSHOT.jar
 ## **Jenkins Stage View:**
 [![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")
+---
+## **Slack Message**
+https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png")
+---
+**You can then access Ynet News here: http://localhost:8080/**
+---
+## **Website Page**
+[![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG")](http://https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG")
