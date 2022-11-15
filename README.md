@@ -8,10 +8,10 @@ News XML in an HTML Table Format.
 ----
 ## **Steps To Running The App:**
 **1. Clone This Repository.**  
-- git clone https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet.git .
+- git clone https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet.git .  
 **2. Build The Project**  
 - mvn clean package .
-**3. Run The Jar File**  
+**3. Run The Jar File**    
 -  java -jar target/YnetNewsApp-0.0.1-SNAPSHOT.jar
 ## **Jenkins Stage View:**
 [![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")
