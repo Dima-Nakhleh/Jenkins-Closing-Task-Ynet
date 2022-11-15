@@ -19,7 +19,7 @@ News XML in an HTML Table Format.
 ## **Slack Message**
 [![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png")](http://https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png")
 ---
-**You can then access Ynet News here: http://localhost:8080/**
+### **You can then access Ynet News here: http://localhost:8080/**
 ---
 ## **Website Page**
 [![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG")](http://https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/ynet.PNG")
