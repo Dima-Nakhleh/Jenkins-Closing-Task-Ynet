@@ -17,7 +17,7 @@ News XML in an HTML Table Format.
 [![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/pipeline.GIF")
 ---
 ## **Slack Message**
-https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png](https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png "https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png")
+https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png![https://github.com/Dima-Nakhleh/Jenkins-Closing-Task-Ynet/blob/main/img/slack.png]
 ---
 **You can then access Ynet News here: http://localhost:8080/**
 ---
